@@ -1,4 +1,5 @@
 #lm75a.py
+import smbus2
 from smbus2 import SMBus
 import sys
 
